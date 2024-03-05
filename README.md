@@ -65,10 +65,13 @@ z=np.abs(stats.zscore(df2))
 print("Zscore: ",df2[z["weight"]>3])
 ~~~
 # Output
-![image](https://github.com/RakshithaK11/exno1/assets/139336455/0a2619e2-fc1f-4251-9b64-4a917710a082)
-![image](https://github.com/RakshithaK11/exno1/assets/139336455/df54c96b-feaf-4f8d-bfbb-08ca5b2a1ac0)
-![image](https://github.com/RakshithaK11/exno1/assets/139336455/bd26bac6-c6ba-4c8b-b9bc-11429f7ec85f)
+![image](https://github.com/RakshithaK11/exno1/assets/139336455/89342d4b-7c83-4606-b3df-beb6146c5929)
 
+![image](https://github.com/RakshithaK11/exno1/assets/139336455/5b34ce25-9920-42e8-a0d6-0e0d1d42fa9a)
+
+![image](https://github.com/RakshithaK11/exno1/assets/139336455/76624442-026e-4a6b-a4ba-82213e5a33fc)
+
+![image](https://github.com/RakshithaK11/exno1/assets/139336455/84cb4ae4-a7b9-411d-ac0f-fc8b3ea47e10)
 
 # Result
 thus, data cleaning process is done successfully.
